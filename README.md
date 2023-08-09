@@ -2,6 +2,9 @@
 
 This project builds upon the XM Cloud starter Kit to enable organizations to define prompts that appear as buttons under text and rich text fields. This works with both Experience Editor and Pages.
 
+You can read more and see screenshots on my blog post about this here:
+https://blogs.perficient.com/2023/08/02/integrating-chatgpt-into-sitecores-xm-cloud/
+
 To use this, you'll need to apply for Azure Open AI Services using this link and then provision a service in your own Azure tenant.
 https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu
 
