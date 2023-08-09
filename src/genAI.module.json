@@ -1,0 +1,23 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "GenAI.DevItems",
+  "items": {
+    "includes": [
+      {
+        "name": "genAI-templates",
+        "path": "/sitecore/Templates/Feature/Generative AI Editor",
+        "allowedPushOperations": "CreateUpdateAndDelete"        
+      },
+      {
+        "name": "genAI-renderings",
+        "path": "/sitecore/layout/Renderings/Feature/GenAI",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "genAI-configuration",
+        "path": "/sitecore/content/Generative AI Settings",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

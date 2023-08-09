@@ -1,0 +1,35 @@
+﻿---
+ID: "a0c65ea0-ff5a-49bf-a7bd-138cc259e8eb"
+Parent: "93a29131-1337-4010-b9a8-4acd7d0a4419"
+Template: "93a29131-1337-4010-b9a8-4acd7d0a4419"
+Path: /sitecore/templates/Feature/Generative AI Editor/Generative AI Configuration/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{60277A24-1534-4B69-9FA8-16FEA70D23D8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230703T170554Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "110fd77b-3ab0-43a8-aa8d-af6c3b8cfe1d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230703T170624Z

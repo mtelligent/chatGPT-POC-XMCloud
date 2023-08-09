@@ -1,0 +1,68 @@
+﻿---
+ID: "ab579040-7e84-4173-ad84-e4e9bcd541d2"
+Parent: "051ef778-b1c5-4e57-9071-a75c92561b1d"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/David San Filippo Demo Site/David San Filippo Demo Site/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{66565A6F-EE39-4F55-ACC4-8422C7632553}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bA03A2C0D-1935-4FC6-9523-C93084C238F2%7d%7c%7b95B1805E-51E9-4109-B123-CDCD3260EF06%7d%7c%7bE3B1ADD8-1DD4-4822-9C79-16185E7D57EE%7d%7c%7bEEE22D1F-2198-46FD-B8B2-6C275710E492%7d%7c%7b8A44E766-887E-4BED-9EE5-A5ABFD006ABC%7d%7c%7b387598F9-B488-4875-88C8-2E6C341E48A7%7d%7c%7bDCAA3BA4-497F-46A0-B323-73886E0A5673%7d%7c%7bF5492C4B-BC3C-4740-8FDD-E667646DAFD6%7d%7c%7b3BF88EB5-24AA-40E4-B656-92D18F727CE4%7d%7c%7b7CC3AA76-38F9-4A83-96A9-34346DD02767%7d%7c%7b536F895D-8F4B-4B1E-895E-A5D1FF9A57A9%7d%7c%7bCCDFF752-D108-40D6-806F-04E73D7F89F2%7d%7c%7bDE3BEEA3-D076-4C76-9A7C-2BAD17312D29%7d%7c%7b17A99E4D-DD32-427C-AC7A-6B9BF7231940%7d%7c%7bB4263072-4D72-4992-A8D2-C1EC51CD13B0%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{572940F9-96A7-4655-B0BF-41203DF3C0B7}"
+          p:after="r[@uid='{66565A6F-EE39-4F55-ACC4-8422C7632553}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bE9FC5607-724B-4676-B428-CF285C335D02%7d&amp;FieldNames=%7b648B526A-11ED-41E6-A93D-823D42471CFF%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{63A0BE65-058A-42E1-8FF9-46EC95829D23}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7bE9FC5607-724B-4676-B428-CF285C335D02%7d&amp;FieldNames=%7b648B526A-11ED-41E6-A93D-823D42471CFF%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T110452Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0b6f22f-0406-43f4-a577-deb2b03e271b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T110458Z

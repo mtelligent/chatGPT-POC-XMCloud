@@ -1,0 +1,19 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "TAC.ContentItems",
+  "references": ["TAC.DevItems"],
+  "items": {
+    "includes": [
+      {
+        "name": "tac-media",
+        "path": "/sitecore/Media Library/Project/TAC",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "tac-contentRoot",
+        "path": "/sitecore/content/TAC",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

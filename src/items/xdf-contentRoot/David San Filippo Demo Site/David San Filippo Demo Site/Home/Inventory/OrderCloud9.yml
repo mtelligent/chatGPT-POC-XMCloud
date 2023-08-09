@@ -1,0 +1,38 @@
+﻿---
+ID: "0b385af6-0094-44f9-969e-e7fb8767ccb9"
+Parent: "653ffb99-dc30-47c0-a86a-be6d7d131348"
+Template: "d2950a39-7d0c-419c-ab51-2ab570d9d2d8"
+Path: /sitecore/content/David San Filippo Demo Site/David San Filippo Demo Site/Home/Inventory/OrderCloud9
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{DA25B7B5-62BE-44CC-A1F3-218F3055DBEA}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "fbc1a771-4e45-4dfa-bffc-607fb6218668"
+    Hint: SKU
+    Value: "{0B385AF6-0094-44F9-969E-E7FB8767CCB9}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T130758Z
+    - ID: "3d6b856e-ad33-4363-9c2f-183d0833a7ea"
+      Hint: Title
+      Value: OrderCloud9
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OrderCloud9
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6c5f6f0-c8ff-49e3-8bfe-c54cf71643ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T130802Z

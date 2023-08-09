@@ -1,0 +1,43 @@
+﻿---
+ID: "6646d5e3-447e-4a86-83b0-c19e3cfc4ab3"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "93a29131-1337-4010-b9a8-4acd7d0a4419"
+Path: /sitecore/content/Generative AI Settings
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0bf28c5d-31fb-475d-b8ba-520a18b8b728"
+      Hint: Endpoint Url
+      Value: "https://XXX.openai.azure.com/"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230703T170928Z
+    - ID: "4389d22d-486d-4116-b8a3-fc9cc76fabd8"
+      Hint: deployment Name
+      Value: demoModel
+    - ID: "8c292ea2-c46f-4fdf-8535-6ba954a97aee"
+      Hint: Prompts
+      Value: |
+        {356BE426-E51F-4834-A5A0-55B7B1F12177}
+        {0D6AA847-75EC-4253-87E3-7B42951DFCF7}
+        {59109B4F-EB4A-4E39-8EE7-30DCE2999C5F}
+        {6A4563FB-B790-4F48-BFC0-DE00D4128A43}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb6852b3-aaf9-47d9-9a80-0463e05dddec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230723T133938Z
+    - ID: "eb911480-3652-4e4a-a7c1-0592b1d136cd"
+      Hint: API Key
+      Value: XXXAPIKEYXXX

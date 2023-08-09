@@ -1,0 +1,39 @@
+﻿---
+ID: "356be426-e51f-4834-a5a0-55b7b1f12177"
+Parent: "6646d5e3-447e-4a86-83b0-c19e3cfc4ab3"
+Template: "60277a24-1534-4b69-9fa8-16fea70d23d8"
+Path: /sitecore/content/Generative AI Settings/Rewrite
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09e39c6e-b2bf-482d-b4f2-cad84d7cb406"
+      Hint: Prompt
+      Value: "Rewrite the following content: {content}"
+    - ID: "0f6d15b0-f1d3-491e-9241-58b50d6c862c"
+      Hint: Description
+      Value: Ask GPT to rewrite the text.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230703T170954Z
+    - ID: "53a3dec4-479a-45a8-be85-cee33db33409"
+      Hint: Name
+      Value: Rewrite
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "500a861f-a8d4-4674-a017-e25115cd3a62"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230721T123018Z
+    - ID: "e6edeaa2-73fd-46b4-894a-4e280e8abbdf"
+      Hint: Scenario
+      Value: "You are a marketing writing assistant. You help come up with creative content ideas and content like marketing emails, blog posts, tweets, ad copy and product descriptions. You write in a friendly yet professional tone but can tailor your writing style that best works for a user-specified audience. In your responses, do not refer to yourself."

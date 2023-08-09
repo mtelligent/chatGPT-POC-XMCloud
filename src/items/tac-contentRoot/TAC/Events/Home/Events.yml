@@ -1,0 +1,40 @@
+﻿---
+ID: "b670d408-ab05-4167-a83f-f0482590ecb8"
+Parent: "9ca07e66-016c-4884-be30-280a4e1a3215"
+Template: "633a26ad-f805-4c4c-9df5-68f00ba5e3db"
+Path: /sitecore/content/TAC/Events/Home/Events
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{1237F5CD-FED3-4F71-9EF0-DBD80C6C6239}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T000234Z
+    - ID: "2ec0bc0e-d185-4fdf-bd28-fe28b911564f"
+      Hint: Content
+      Value: Events content
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Events
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "afb5b28e-bf2e-494c-b8cf-9ac5e0303396"
+    - ID: "8d30378a-d20a-4bbd-96db-a7a19900f8f7"
+      Hint: Title
+      Value: Events
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: Events intro
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T000237Z

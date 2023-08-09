@@ -1,0 +1,39 @@
+﻿---
+ID: "4c552cbf-f603-41f8-b243-df2efc86f4ec"
+Parent: "6646d5e3-447e-4a86-83b0-c19e3cfc4ab3"
+Template: "60277a24-1534-4b69-9fa8-16fea70d23d8"
+Path: /sitecore/content/Generative AI Settings/Add Quote
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09e39c6e-b2bf-482d-b4f2-cad84d7cb406"
+      Hint: Prompt
+      Value: "Choose a quote that illustrates the topic in the following content: {content}"
+    - ID: "0f6d15b0-f1d3-491e-9241-58b50d6c862c"
+      Hint: Description
+      Value: Append a quote to the content
+    - ID: "2489d37d-fe83-4b69-b4f7-be6cf4e1b755"
+      Hint: Append
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230703T171351Z
+    - ID: "53a3dec4-479a-45a8-be85-cee33db33409"
+      Hint: Name
+      Value: Add Quote
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c83f35c2-14f5-4406-8f46-2f2f7f20b6cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230721T123018Z

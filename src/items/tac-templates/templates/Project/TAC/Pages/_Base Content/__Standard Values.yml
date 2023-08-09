@@ -1,0 +1,37 @@
+﻿---
+ID: "73b51aef-228e-4065-888c-fe6784a2e81d"
+Parent: "26952055-d19c-490c-b20b-9fcdc0b58d73"
+Template: "26952055-d19c-490c-b20b-9fcdc0b58d73"
+Path: /sitecore/templates/Project/TAC/Pages/_Base Content/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1844bcd9-cf79-4796-9440-1e9cbc482211"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{99AC9C41-38AE-415E-89F7-4CE51C933F4D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T231014Z
+    - ID: "2ec0bc0e-d185-4fdf-bd28-fe28b911564f"
+      Hint: Content
+      Value: $name content
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e42ac63-583f-4ce5-95c4-0d03b10f3093"
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: $name intro
+    - ID: "b5a0559e-3310-4cd7-a91b-b220c646e2d8"
+      Hint: NavigationImage
+      Value: |
+        <image mediaid="{43A0FC8B-E4A2-4FBB-9171-C20D53AF5899}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T232811Z

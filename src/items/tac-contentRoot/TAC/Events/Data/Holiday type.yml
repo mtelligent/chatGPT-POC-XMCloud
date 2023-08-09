@@ -1,0 +1,23 @@
+﻿---
+ID: "1fd96975-376e-41e6-b76c-d7557fc6df1f"
+Parent: "59626fb4-02ce-4c33-ae7d-4497036ed353"
+Template: "48e32dd0-5c0b-4cf7-922f-19465975aca0"
+Path: /sitecore/content/TAC/Events/Data/Holiday type
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T233301Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c421449-8ebd-407f-80c5-0c8eeee4db0b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T233301Z

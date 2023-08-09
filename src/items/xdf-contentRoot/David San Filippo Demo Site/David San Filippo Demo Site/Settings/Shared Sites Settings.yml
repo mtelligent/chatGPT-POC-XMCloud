@@ -1,0 +1,31 @@
+﻿---
+ID: "0e36574e-e968-42c7-a530-c72a03de1952"
+Parent: "bbf077dc-e86d-4bcb-8151-5d3938ee71b4"
+Template: "c14bf746-030f-4e59-8594-395f6d299e61"
+Path: /sitecore/content/David San Filippo Demo Site/David San Filippo Demo Site/Settings/Shared Sites Settings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T110427Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9a05e82-eecf-43ca-a540-fb51c748975b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T110427Z

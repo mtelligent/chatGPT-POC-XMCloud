@@ -1,0 +1,29 @@
+﻿---
+ID: "afd6470c-1a69-4c3c-9565-a091d0da40af"
+Parent: "773f93f4-772f-4aef-ae52-995aa9f83170"
+Template: "773f93f4-772f-4aef-ae52-995aa9f83170"
+Path: /sitecore/templates/Project/TAC/Pages/Event List/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {B82A723F-4C9C-4F81-B101-41C8469BA339}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T231530Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0781793d-89c4-46cc-abf7-5a1cb22178c8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T233822Z

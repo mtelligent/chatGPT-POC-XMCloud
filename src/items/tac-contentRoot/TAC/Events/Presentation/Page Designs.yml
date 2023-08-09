@@ -1,0 +1,39 @@
+﻿---
+ID: "98a90e7e-3a37-4c2a-8185-404d3a32eaf3"
+Parent: "23768220-7f72-4397-ba48-e0afc52b8d9b"
+Template: "e428464f-ef9f-4db7-a056-56e472df28d1"
+Path: /sitecore/content/TAC/Events/Presentation/Page Designs
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b1E1E3208-D128-4EFB-B846-BA7EAEC0D71D%7d%3d%257B2D85399D-6C4A-48A4-BB9F-9619C71B6D6C%257D%26%7b633A26AD-F805-4C4C-9DF5-68F00BA5E3DB%7d%3d%257B2D85399D-6C4A-48A4-BB9F-9619C71B6D6C%257D%26%7b773F93F4-772F-4AEF-AE52-995AA9F83170%7d%3d%257B2D85399D-6C4A-48A4-BB9F-9619C71B6D6C%257D%26%7bB82A723F-4C9C-4F81-B101-41C8469BA339%7d%3d%257B0CE8596E-3732-414B-8F8F-3072FE1AE2FE%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T222311Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b92b3b1e-330a-4cb3-b3c2-148de963964c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T134210Z

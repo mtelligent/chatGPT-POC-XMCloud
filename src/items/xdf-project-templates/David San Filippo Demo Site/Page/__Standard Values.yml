@@ -1,0 +1,40 @@
+﻿---
+ID: "4c00b90f-c9fe-4dff-b24c-8ff7932c0b3b"
+Parent: "ad722ba8-36d3-48ed-bf26-4ea6558c54e5"
+Template: "ad722ba8-36d3-48ed-bf26-4ea6558c54e5"
+Path: /sitecore/templates/Project/David San Filippo Demo Site/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {AD722BA8-36D3-48ED-BF26-4EA6558C54E5}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T110414Z
+    - ID: "3d6b856e-ad33-4363-9c2f-183d0833a7ea"
+      Hint: Title
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c2a408b-4600-4589-b23a-c09a5e08115f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T110422Z

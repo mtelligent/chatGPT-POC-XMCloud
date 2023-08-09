@@ -1,0 +1,34 @@
+﻿---
+ID: "4571fc2e-5ea4-440c-869b-a207a3224d4c"
+Parent: "9ca07e66-016c-4884-be30-280a4e1a3215"
+Template: "1e1e3208-d128-4efb-b846-ba7eaec0d71d"
+Path: /sitecore/content/TAC/Events/Home/Search
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C869B400-8D75-48AA-91EB-0C0B7F8CD437}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T000243Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Search
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa603c45-8dd1-4b53-83a4-3317a5c51596"
+    - ID: "8d30378a-d20a-4bbd-96db-a7a19900f8f7"
+      Hint: Title
+      Value: Search
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T000245Z

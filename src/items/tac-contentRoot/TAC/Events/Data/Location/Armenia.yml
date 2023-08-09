@@ -1,0 +1,26 @@
+﻿---
+ID: "f0af4290-38f7-4c2c-a842-c5fac73858bc"
+Parent: "c4609739-fa44-4128-80c2-373d28018460"
+Template: "6fff8592-01c1-4b29-a08f-5f21f63f2272"
+Path: /sitecore/content/TAC/Events/Data/Location/Armenia
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T233350Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee6a52fa-f2f8-4a3f-979b-8cce184f6467"
+    - ID: "96b108ea-8ee2-4180-b186-c077b9891ed4"
+      Hint: Text
+      Value: Armenia
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T233350Z

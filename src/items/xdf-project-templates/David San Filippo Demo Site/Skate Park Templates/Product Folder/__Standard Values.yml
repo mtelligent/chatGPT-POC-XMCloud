@@ -1,0 +1,30 @@
+﻿---
+ID: "ce95d8af-a240-4021-913f-1666da7e6e06"
+Parent: "fea8b588-b030-490e-b749-7f71c5104208"
+Template: "fea8b588-b030-490e-b749-7f71c5104208"
+Path: /sitecore/templates/Project/David San Filippo Demo Site/Skate Park Templates/Product Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {D2950A39-7D0C-419C-AB51-2AB570D9D2D8}
+    {9F4B5A73-0A7C-41DD-AF18-FB3821A15126}
+    {40E86559-1E7F-4662-8B03-F3A147DD8574}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T130502Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdc5588d-387d-4a51-9735-62ceb0440ee5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T130542Z

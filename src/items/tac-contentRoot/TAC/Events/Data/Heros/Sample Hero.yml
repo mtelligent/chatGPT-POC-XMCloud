@@ -1,0 +1,51 @@
+﻿---
+ID: "c41aae65-8df8-46b6-b0f4-205b2c51c0c2"
+Parent: "a31fd6be-3bad-4170-9272-61455badc923"
+Template: "415b5613-2bf7-4b67-be5b-aeb4b526d4a5"
+Path: /sitecore/content/TAC/Events/Data/Heros/Sample Hero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1ac7c918-ab2c-4995-9e5e-699a4e25b740"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{2DE35D35-AC7F-4304-8A1C-3257475C5BB3}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T145441Z
+    - ID: "44ddf9cb-4471-4a6b-92e5-3cde0987f183"
+      Hint: Summary
+      Value: Lorem ipsum dolor sit amet, consetetur sadipscing elitr no sea takimata sanctus est Lorem ipsum dolor sit amet
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "69551346-441a-4bdb-976c-ca5e66eba2f0"
+      Hint: Body
+      Value: Enjoy Mountain Everest Event with the Adventure Company.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1307ce79-63a8-486e-9c57-dd01ffcf74ad"
+    - ID: "971c4dc2-d891-40cc-a332-1ed1107d7635"
+      Hint: Image
+      Value: |
+        <image mediaid="{3AE71ED9-D1D3-4488-B6FB-93B6D52B5B27}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "bb91748f-44d4-48e6-9fa2-bdc03c2cd303"
+      Hint: Title
+      Value: Exciting Mount Everest Event
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230710T235027Z

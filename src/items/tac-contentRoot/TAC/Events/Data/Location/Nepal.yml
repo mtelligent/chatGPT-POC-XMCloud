@@ -1,0 +1,26 @@
+﻿---
+ID: "986ef56d-5189-4d25-8fa7-1866a7f3da84"
+Parent: "c4609739-fa44-4128-80c2-373d28018460"
+Template: "6fff8592-01c1-4b29-a08f-5f21f63f2272"
+Path: /sitecore/content/TAC/Events/Data/Location/Nepal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T233355Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9547bd1-84ff-4409-8d43-9b0a59a1c592"
+    - ID: "96b108ea-8ee2-4180-b186-c077b9891ed4"
+      Hint: Text
+      Value: Nepal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T233355Z

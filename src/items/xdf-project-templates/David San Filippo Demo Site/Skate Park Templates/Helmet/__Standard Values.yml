@@ -1,0 +1,23 @@
+﻿---
+ID: "8d7e3c9e-d483-42ce-b4d4-21bcc41cbf08"
+Parent: "40e86559-1e7f-4662-8b03-f3a147dd8574"
+Template: "40e86559-1e7f-4662-8b03-f3a147dd8574"
+Path: /sitecore/templates/Project/David San Filippo Demo Site/Skate Park Templates/Helmet/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T130352Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "165a67a3-1efa-4336-b681-332108f2003f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T130352Z

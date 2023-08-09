@@ -1,0 +1,60 @@
+﻿---
+ID: "2de35d35-ac7f-4304-8a1c-3257475c5bb3"
+Parent: "c1d48782-cf70-43ee-bd14-391fcdaf90bd"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/TAC/Events/Home/Events/Climbing/Climb Mount Everest
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C96090A8-65D9-4FFF-A6FA-D74B1C26E82D}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{986EF56D-5189-4D25-8FA7-1866A7F3DA84}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T000351Z
+    - ID: "276d78bf-84f8-474d-b5a9-d9d4b254ce4a"
+      Hint: EventDuration
+      Value: 8
+    - ID: "2ec0bc0e-d185-4fdf-bd28-fe28b911564f"
+      Hint: Content
+      Value: Climb Mount Everest content
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Climb Mount Everest
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: "{C78845F5-E804-4456-B4B4-131E1DC10CCF}"
+    - ID: "7da72924-1813-4335-a6f8-6cdde1fa6560"
+      Hint: RelatedEvents
+      Value: |
+        {3022CBAA-771F-474C-98AF-394A6527B069}
+        {A3E3BEC6-A89C-47E1-8E42-29163756712E}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac72e053-66e3-42cd-95dc-341750a5085f"
+    - ID: "8d30378a-d20a-4bbd-96db-a7a19900f8f7"
+      Hint: Title
+      Value: Climb Mount Everest
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: The ultimate mountaineering basecamp adventure of climbing Mount Everest is known to be pioneered by The Adventure Company, the premier guiding service that has an impressive reputation for leading guided ascents. Reaching the pinnacle of the Earth is an incredibly rewarding experience that one can have in their lifetime and with The Adventure Company, numerous expedition members have achieved their summit aspirations.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230723T130232Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20240622T150000Z

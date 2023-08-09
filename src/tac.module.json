@@ -1,0 +1,69 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "TAC.DevItems",
+  "items": {
+    "includes": [
+      {
+        "name": "tac-templates",
+        "path": "/sitecore/Templates",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "rules": [
+          {
+            "path": "/Project/TAC",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "/Project",
+            "scope": "SingleItem"
+          },
+          {
+            "path": "/Feature/TAC",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateUpdateAndDelete"
+          },
+          {
+            "path": "/Feature",
+            "scope": "SingleItem"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "tac-placeholders",
+        "path": "/sitecore/layout/Placeholder Settings",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "rules": [
+          {
+            "path": "/Project/TAC",
+            "scope": "ItemAndDescendants"
+          },
+          {
+            "path": "/Project",
+            "scope": "SingleItem"
+          },
+          {
+            "path": "/Feature/TAC",
+            "scope": "ItemAndDescendants"
+          },
+          {
+            "path": "/Feature",
+            "scope": "SingleItem"
+          },
+          {
+            "path": "*",
+            "scope": "ignored"
+          }
+        ]
+      },
+      {
+        "name": "tac-renderings",
+        "path": "/sitecore/layout/Renderings/Feature/TAC",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

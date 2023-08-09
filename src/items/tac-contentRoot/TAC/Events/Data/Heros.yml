@@ -1,0 +1,23 @@
+﻿---
+ID: "a31fd6be-3bad-4170-9272-61455badc923"
+Parent: "59626fb4-02ce-4c33-ae7d-4497036ed353"
+Template: "a59826bf-da19-481b-a0e7-e58cf01ad8ae"
+Path: /sitecore/content/TAC/Events/Data/Heros
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T145428Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8bf85e0d-2cc4-4464-943c-0850ff1b7266"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T145428Z

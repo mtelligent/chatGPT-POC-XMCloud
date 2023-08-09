@@ -1,0 +1,23 @@
+﻿---
+ID: "5db4496e-918f-4268-b87d-55b5d47f047a"
+Parent: "9f4b5a73-0a7c-41dd-af18-fb3821a15126"
+Template: "9f4b5a73-0a7c-41dd-af18-fb3821a15126"
+Path: /sitecore/templates/Project/David San Filippo Demo Site/Skate Park Templates/Wheels/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T130346Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cccd03d-6724-470c-a64b-b60990502407"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T130346Z

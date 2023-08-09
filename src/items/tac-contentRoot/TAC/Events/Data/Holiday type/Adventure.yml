@@ -1,0 +1,26 @@
+﻿---
+ID: "c78845f5-e804-4456-b4b4-131e1dc10ccf"
+Parent: "1fd96975-376e-41e6-b76c-d7557fc6df1f"
+Template: "6fff8592-01c1-4b29-a08f-5f21f63f2272"
+Path: /sitecore/content/TAC/Events/Data/Holiday type/Adventure
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T233318Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "502b725e-299d-4707-a2e4-69b56c6da265"
+    - ID: "96b108ea-8ee2-4180-b186-c077b9891ed4"
+      Hint: Text
+      Value: Adventure
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T233318Z

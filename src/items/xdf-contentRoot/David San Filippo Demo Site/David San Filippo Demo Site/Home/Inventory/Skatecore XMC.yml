@@ -1,0 +1,38 @@
+﻿---
+ID: "9b1b2684-6d57-4f47-9028-a9904d922064"
+Parent: "653ffb99-dc30-47c0-a86a-be6d7d131348"
+Template: "d2950a39-7d0c-419c-ab51-2ab570d9d2d8"
+Path: /sitecore/content/David San Filippo Demo Site/David San Filippo Demo Site/Home/Inventory/Skatecore XMC
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{A163D7C5-1C4B-49AF-923A-13107210FD2D}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "fbc1a771-4e45-4dfa-bffc-607fb6218668"
+    Hint: SKU
+    Value: "{9B1B2684-6D57-4F47-9028-A9904D922064}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T130747Z
+    - ID: "3d6b856e-ad33-4363-9c2f-183d0833a7ea"
+      Hint: Title
+      Value: Skatecore XMC
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Skatecore XMC
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b22ae101-05e8-4a77-a38a-ed1f66ab7e5c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T130751Z

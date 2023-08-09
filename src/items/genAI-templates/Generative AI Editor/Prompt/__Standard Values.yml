@@ -1,0 +1,40 @@
+﻿---
+ID: "539a506a-aa29-4a6b-aee7-812530394307"
+Parent: "60277a24-1534-4b69-9fa8-16fea70d23d8"
+Template: "60277a24-1534-4b69-9fa8-16fea70d23d8"
+Path: /sitecore/templates/Feature/Generative AI Editor/Prompt/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09e39c6e-b2bf-482d-b4f2-cad84d7cb406"
+      Hint: Prompt
+      Value: "Rewrite {content}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230703T170417Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "53a3dec4-479a-45a8-be85-cee33db33409"
+      Hint: Name
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c19516d8-2ce8-449f-8490-8d216b835cc4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230704T125129Z
+    - ID: "e6edeaa2-73fd-46b4-894a-4e280e8abbdf"
+      Hint: Scenario
+      Value: You are a professional writer.

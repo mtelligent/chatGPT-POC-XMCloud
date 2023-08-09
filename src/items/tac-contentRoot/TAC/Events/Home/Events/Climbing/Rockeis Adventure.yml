@@ -1,0 +1,59 @@
+﻿---
+ID: "a3e3bec6-a89c-47e1-8e42-29163756712e"
+Parent: "c1d48782-cf70-43ee-bd14-391fcdaf90bd"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/TAC/Events/Home/Events/Climbing/Rockeis Adventure
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{D0596ABE-F774-4D1D-B8B3-5FF8BB4E710F}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{6B1453FF-E484-42BE-879C-D6F5F6E1CDC1}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T000436Z
+    - ID: "276d78bf-84f8-474d-b5a9-d9d4b254ce4a"
+      Hint: EventDuration
+      Value: 4
+    - ID: "2ec0bc0e-d185-4fdf-bd28-fe28b911564f"
+      Hint: Content
+      Value: Rockeis Adventure content
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rockeis Adventure
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: |
+        {C78845F5-E804-4456-B4B4-131E1DC10CCF}
+        {615A9110-ED6E-47BD-B295-5E969E817A60}
+    - ID: "7da72924-1813-4335-a6f8-6cdde1fa6560"
+      Hint: RelatedEvents
+      Value: |
+        {2DE35D35-AC7F-4304-8A1C-3257475C5BB3}
+        {3022CBAA-771F-474C-98AF-394A6527B069}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a5c0f46-6c20-4e6d-bb1a-a88fe7b7af5d"
+    - ID: "8d30378a-d20a-4bbd-96db-a7a19900f8f7"
+      Hint: Title
+      Value: Rockeis Adventure
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: Rockeis Adventure intro
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T000704Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20231115T150000Z

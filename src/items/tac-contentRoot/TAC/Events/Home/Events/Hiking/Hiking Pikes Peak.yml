@@ -1,0 +1,57 @@
+﻿---
+ID: "9aad64ae-c4d2-4007-9813-e9274219b43b"
+Parent: "0f32e277-3be5-40f9-857a-596f98e22847"
+Template: "b82a723f-4c9c-4f81-b101-41c8469ba339"
+Path: /sitecore/content/TAC/Events/Home/Events/Hiking/Hiking Pikes Peak
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8F252BC8-FB91-4140-892D-A93015DAAEDE}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "097176c6-3d40-42d3-a60d-d4aeb718f289"
+      Hint: EventLocation
+      Value: "{6B1453FF-E484-42BE-879C-D6F5F6E1CDC1}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230608T000447Z
+    - ID: "276d78bf-84f8-474d-b5a9-d9d4b254ce4a"
+      Hint: EventDuration
+      Value: 5
+    - ID: "2ec0bc0e-d185-4fdf-bd28-fe28b911564f"
+      Hint: Content
+      Value: Hiking Pikes Peak content
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hiking Pikes Peak
+    - ID: "6c064b4a-2e6c-44f2-94cd-2478a614b067"
+      Hint: HideEventDate
+      Value: 1
+    - ID: "70375b2a-f8d1-4767-afa7-340160cf3616"
+      Hint: HolidayTypes
+      Value: |
+        {C78845F5-E804-4456-B4B4-131E1DC10CCF}
+        {615A9110-ED6E-47BD-B295-5E969E817A60}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "206f730a-73af-4602-a820-6d76a60da9da"
+    - ID: "8d30378a-d20a-4bbd-96db-a7a19900f8f7"
+      Hint: Title
+      Value: Hiking Pikes Peak
+    - ID: "9bfae51f-6f32-4211-b5e0-cacdd800ae59"
+      Hint: Intro
+      Value: Hiking Pikes Peak intro
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\satoshi.matsushita@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230608T000639Z
+    - ID: "fd3fe467-84a7-4251-a8b8-03e4a2e7b231"
+      Hint: EventDate
+      Value: 20260614T150000Z

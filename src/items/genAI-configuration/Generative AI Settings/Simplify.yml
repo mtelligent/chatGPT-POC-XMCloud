@@ -1,0 +1,36 @@
+﻿---
+ID: "c83390d1-d252-4d93-b332-821934da59dd"
+Parent: "6646d5e3-447e-4a86-83b0-c19e3cfc4ab3"
+Template: "60277a24-1534-4b69-9fa8-16fea70d23d8"
+Path: /sitecore/content/Generative AI Settings/Simplify
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09e39c6e-b2bf-482d-b4f2-cad84d7cb406"
+      Hint: Prompt
+      Value: "Simplify the following content: {content}"
+    - ID: "0f6d15b0-f1d3-491e-9241-58b50d6c862c"
+      Hint: Description
+      Value: Ask GPT to simplify the content
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230703T171241Z
+    - ID: "53a3dec4-479a-45a8-be85-cee33db33409"
+      Hint: Name
+      Value: Simplify
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ffb355c-1ffb-44d7-a4c7-44d42d914036"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230721T123018Z

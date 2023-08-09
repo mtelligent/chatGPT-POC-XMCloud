@@ -1,0 +1,45 @@
+﻿---
+ID: "c54de96b-3b70-488d-a86e-7fb20f9ca855"
+Parent: "66c70022-6743-47d8-bad3-7dceeb339830"
+Template: "66c70022-6743-47d8-bad3-7dceeb339830"
+Path: /sitecore/templates/Project/David San Filippo Demo Site/Skate Park Templates/_Base Product/__Standard Values
+SharedFields:
+- ID: "bc1af23a-84c4-4b6a-9acc-518d35217861"
+  Hint: Price
+  Value: $100
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{E50ED953-B4B0-494D-BDEA-9681AFC1EEC2}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "fbc1a771-4e45-4dfa-bffc-607fb6218668"
+    Hint: SKU
+    Value: $id
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T125943Z
+    - ID: "467b8a2f-8f8b-46f5-b35f-5efe6e97c6f0"
+      Hint: Highlights
+      Value: Whether you're a beginner or pro, this will work well for you.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40ea3c7e-4bb2-4a5b-847e-f882eed98401"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T142307Z

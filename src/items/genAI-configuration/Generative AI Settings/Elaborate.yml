@@ -1,0 +1,39 @@
+﻿---
+ID: "59109b4f-eb4a-4e39-8ee7-30dce2999c5f"
+Parent: "6646d5e3-447e-4a86-83b0-c19e3cfc4ab3"
+Template: "60277a24-1534-4b69-9fa8-16fea70d23d8"
+Path: /sitecore/content/Generative AI Settings/Elaborate
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09e39c6e-b2bf-482d-b4f2-cad84d7cb406"
+      Hint: Prompt
+      Value: "Elaborate the following content: {content}"
+    - ID: "0f6d15b0-f1d3-491e-9241-58b50d6c862c"
+      Hint: Description
+      Value: Ask GPT to Elaborate the text
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230703T171042Z
+    - ID: "53a3dec4-479a-45a8-be85-cee33db33409"
+      Hint: Name
+      Value: Elaborate
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6319dab-8be8-44c2-a149-ec22d99f5be0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230721T143955Z
+    - ID: "e6edeaa2-73fd-46b4-894a-4e280e8abbdf"
+      Hint: Scenario
+      Value: You are an expert mountain climber. You write with a technical style leveraging the terms of your industry.

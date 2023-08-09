@@ -1,0 +1,44 @@
+﻿---
+ID: "611fc9ba-8192-4e21-b651-c16df0e3ede4"
+Parent: "653ffb99-dc30-47c0-a86a-be6d7d131348"
+Template: "d2950a39-7d0c-419c-ab51-2ab570d9d2d8"
+Path: /sitecore/content/David San Filippo Demo Site/David San Filippo Demo Site/Home/Inventory/Workflow Skateboard
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{E50ED953-B4B0-494D-BDEA-9681AFC1EEC2}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{F6F767EE-31DA-4074-B95A-36EB70ED9D4C}" />
+Languages:
+- Language: en
+  Fields:
+  - ID: "fbc1a771-4e45-4dfa-bffc-607fb6218668"
+    Hint: SKU
+    Value: "{611FC9BA-8192-4E21-B651-C16DF0E3EDE4}"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T142409Z
+    - ID: "3d6b856e-ad33-4363-9c2f-183d0833a7ea"
+      Hint: Title
+      Value: Workflow Skateboard
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{28020964-225D-4498-9D82-364E849647A5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Workflow Skateboard
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6446e314-9041-4746-8c15-718cf9b83486"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T142413Z

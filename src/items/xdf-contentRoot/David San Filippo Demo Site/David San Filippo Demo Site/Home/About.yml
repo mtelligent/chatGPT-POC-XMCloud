@@ -1,0 +1,109 @@
+﻿---
+ID: "a3b6c6b7-4705-4d84-92ac-7ce50f46a04d"
+Parent: "ac74d61e-f1e8-4f98-931d-af00669ce4f7"
+Template: "ad722ba8-36d3-48ed-bf26-4ea6558c54e5"
+Path: /sitecore/content/David San Filippo Demo Site/David San Filippo Demo Site/Home/About
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B79546FA-033B-4B61-AD23-C04123B4B985}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D0279D45-5881-4C15-8968-4415E98C14BE}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7bE3B1ADD8-1DD4-4822-9C79-16185E7D57EE%7d%7c%7bEEE22D1F-2198-46FD-B8B2-6C275710E492%7d%7c%7b8A44E766-887E-4BED-9EE5-A5ABFD006ABC%7d%7c%7b387598F9-B488-4875-88C8-2E6C341E48A7%7d%7c%7bDCAA3BA4-497F-46A0-B323-73886E0A5673%7d%7c%7bF5492C4B-BC3C-4740-8FDD-E667646DAFD6%7d%7c%7b3BF88EB5-24AA-40E4-B656-92D18F727CE4%7d%7c%7b7CC3AA76-38F9-4A83-96A9-34346DD02767%7d%7c%7b536F895D-8F4B-4B1E-895E-A5D1FF9A57A9%7d%7c%7bCCDFF752-D108-40D6-806F-04E73D7F89F2%7d%7c%7bDE3BEEA3-D076-4C76-9A7C-2BAD17312D29%7d%7c%7b17A99E4D-DD32-427C-AC7A-6B9BF7231940%7d%7c%7bB4263072-4D72-4992-A8D2-C1EC51CD13B0%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{FDF21FAC-25FE-4276-9F02-B58669188886}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b648B526A-11ED-41E6-A93D-823D42471CFF%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D0279D45-5881-4C15-8968-4415E98C14BE}"
+              s:par="Styles=%7BE3B1ADD8-1DD4-4822-9C79-16185E7D57EE%7D%7C%7BEEE22D1F-2198-46FD-B8B2-6C275710E492%7D%7C%7B8A44E766-887E-4BED-9EE5-A5ABFD006ABC%7D%7C%7B387598F9-B488-4875-88C8-2E6C341E48A7%7D%7C%7BDCAA3BA4-497F-46A0-B323-73886E0A5673%7D%7C%7BF5492C4B-BC3C-4740-8FDD-E667646DAFD6%7D%7C%7B3BF88EB5-24AA-40E4-B656-92D18F727CE4%7D%7C%7B7CC3AA76-38F9-4A83-96A9-34346DD02767%7D%7C%7B536F895D-8F4B-4B1E-895E-A5D1FF9A57A9%7D%7C%7BCCDFF752-D108-40D6-806F-04E73D7F89F2%7D%7C%7BDE3BEEA3-D076-4C76-9A7C-2BAD17312D29%7D%7C%7B17A99E4D-DD32-427C-AC7A-6B9BF7231940%7D%7C%7BB4263072-4D72-4992-A8D2-C1EC51CD13B0%7D&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{FDF21FAC-25FE-4276-9F02-B58669188886}">
+              <p:d />
+            </r>
+            <r
+              uid="{A7B5DAF9-C568-46F2-96F0-67AA6CBAC9F3}"
+              p:after="r[@uid='{D0279D45-5881-4C15-8968-4415E98C14BE}']"
+              s:id="{3836D951-BB14-43AC-9231-649B7F245DC5}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BB25A7272-8123-4519-BAEB-89DF40751C28%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{781AFBC1-C831-4BDE-AB9D-2B9EE91A85F1}"
+              p:after="r[@uid='{A7B5DAF9-C568-46F2-96F0-67AA6CBAC9F3}']"
+              s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7BC11485E3-E6F7-45D3-B391-44CCE5235F21%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{DD36B792-C5D0-42E0-960B-48C706B2CFB4}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Image 1"
+              s:id="{AB2EDBA0-3960-4F12-B765-579DC231894A}"
+              s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7B81225C08-5783-4BED-A86A-AB2B87198885%7D&amp;FieldNames=%7B3CB879B0-5C08-44A9-A98E-5901C384CF51%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T110451Z
+    - ID: "3d6b856e-ad33-4363-9c2f-183d0833a7ea"
+      Hint: Title
+      Value: Skate Park by the Adventure Company
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "69d4a85e-b0b1-40ed-ba7e-f92ae1a6c8d2"
+      Hint: Content
+      Value: "<p>Welcome to Skate Park by the Adventure company. We supply skateboards,, parts, and accessories to skate shops and boarders around the world. We are committed to providing our customers with high-quality products at competitive prices.</p><p>We offer a wide variety of products including decks, wheels, trucks, bearings and hardware. We also carry a variety of accessories, such as helmets, pads and clothing.</p><p>We are passionate about skateboarding and believe that everyone should have the opportunity to experience the joy of skating.</p>"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0587f58c-dd37-47fb-ae32-bb8f911b537a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\david.sanfilippo@perficient.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230706T114751Z
